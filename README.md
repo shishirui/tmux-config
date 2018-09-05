@@ -15,8 +15,7 @@
 1. `<prefix> s` 列出 session，支持切换
 1. `<prefix> d` 将 session 放入后台（放入后台后，可以用 `tmux a` 或 `tmux a -t [序号]` 切回来）
 
-
-更多快捷键请前往 [gpakosz/.tmux](https://github.com/gpakosz/.tmux) 进行了解
+上面只是列出了我常用的一些快捷键，更多快捷键请前往 [gpakosz/.tmux](https://github.com/gpakosz/.tmux) 进行了解。
 
 ### 需求
 
