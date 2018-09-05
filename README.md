@@ -13,6 +13,8 @@
 1. `<prefix> m` 切换鼠标模式开启或关闭（启用后可以用鼠标选择 pane、window，调整 pane 大小等）
 1. `<prefix> Enter` 进入复制模式 （按 Esc 退出）
 1. `<prefix> s` 列出 session，支持切换
+1. `<prefix> d` 将 session 放入后台（放入后台后，可以用 `tmux a` 或 `tmux a -t [序号]` 切回来）
+
 
 更多快捷键请前往 [gpakosz/.tmux](https://github.com/gpakosz/.tmux) 进行了解
 
