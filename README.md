@@ -4,10 +4,13 @@
 
 ### 特性
 
-1. <prefix> 键盘是 ^a 或 ^b
-1. ^n 切换到下一个window
-1. ^N 切换到上一个window
-1. <prefix> c 新建一个window
+1. `<prefix>` 键盘是 ^a 或 ^b
+1. `^n` 切换到下一个 window
+1. `^N` 切换到上一个 window
+1. `<prefix> c` 新建一个 window
+1. `<prefix> -` 横分屏（pane）
+1. `<prefix> _` 横分屏（pane）
+
 
 ### 需求
 
