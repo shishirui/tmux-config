@@ -2,7 +2,7 @@
 
 我的 tmux 配置文档，基于 [gpakosz/.tmux](https://github.com/gpakosz/.tmux)  进行开发
 
-### 常用的快捷键
+### 常用快捷键
 
 1. `<prefix>` 键盘是 ^a 或 ^b
 1. `^n` 切换到下一个 window
