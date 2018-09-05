@@ -10,7 +10,7 @@
 1. `<prefix> c` 新建一个 window
 1. `<prefix> -` 横分屏（pane）
 1. `<prefix> _` 竖分屏（pane）
-1. `<prefix> m` 开/关鼠标模式（启用后可以用鼠标选择 pane、window，调整 pane 大小等）
+1. `<prefix> m` 切换鼠标模式开启或关闭（启用后可以用鼠标选择 pane、window，调整 pane 大小等）
 1. `<prefix> Enter` 进入复制模式 （按 Esc 退出）
 1. `<prefix> s` 列出 session，支持切换
 
