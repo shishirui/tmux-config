@@ -26,7 +26,7 @@
 
     cd
     git clone https://github.com/shishirui/tmux-config.git
-    cp -r tmux-config/.tmux.conf vim-config/.tmux.conf.local .
+    cp tmux-config/.tmux.conf tmux-config/.tmux.conf.local .
 
 ### 配置
 
